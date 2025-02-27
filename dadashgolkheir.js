@@ -22,3 +22,4 @@ deleteFood('gheyme')
 console.log(human.favoriteFoods)
 deleteFood('borger')
 console.log(human.favoriteFoods)
+//test
