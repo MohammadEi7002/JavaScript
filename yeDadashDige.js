@@ -2,7 +2,7 @@
 function car(x) {
     let cars={
         mo:['germany', 'italy', 'usa', 'japan'],
-        hajm:[4.4, 6, 6, 3.5]
+        hajm:[4.4, 6, 6, 3.5],
         brand:['bmw', 'mercedes', 'lamborghni', 'camaro', 'nissan gtr35']
     }
     if (x === 'bmw' || x === 'mercedes') {
