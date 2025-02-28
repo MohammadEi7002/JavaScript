@@ -6,18 +6,19 @@ function car(x) {
         brand:['bmw', 'mercedes', 'lamborghni', 'camaro', 'nissan gtr35']
     }
     if (x === 'bmw' || x === 'mercedes') {
-        return mo(0,0);
+        return 'bmw 4.4 germany';
     }
     else if (x === 'lamborghni') {
-        return 
+        return 'lamborghni 6 italy';
     }
     else if (x === 'camaro') {
-        return 
+        return 'camaro 6 usa';
     }
     else if (x === 'nissan gtr35') {
-        return 
+        return 'nissan gtr35 3.5 japan';
     }
     else {
         return 'coming soon'
     }
 }
+console.log()
